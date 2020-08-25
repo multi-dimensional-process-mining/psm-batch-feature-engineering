@@ -2,7 +2,7 @@
 
 *Feature engineering for inter-case dynamics caused by batching.*
 
-These scripts first take as input batch parameters from the [Batch Miner](https://github.com/eklijn/psm-batchmining) in csv format and output forecasts of these batch parameters.
+These scripts first take as input batch parameters from the [Batch Miner](https://github.com/multi-dimensional-process-mining/psm-batchmining) in csv format and output forecasts of these batch parameters.
 They then take (1) the forecast batch parameters, (2) a predicted batch classification and (3) an event log - all in csv format - and output an event log with additional batch feature.
 
 >**Note:** This directory only contains scripts for creating features for the BPIC'20 log and Road Traffic Fine Management log, but can be applied to other logs with some simple adjustments.
