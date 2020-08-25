@@ -1,4 +1,4 @@
-# batch-feature-engineering
+# psm-batch-feature-engineering
 
 *Feature engineering for inter-case dynamics caused by batching.*
 
